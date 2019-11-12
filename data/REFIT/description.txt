@@ -1,0 +1,1 @@
+The original data should be put in folder 'original_data'. In the pre-process stage, a lot of intermediate data will generate, you can delete it manually or modify the code that we provided.

@@ -1,0 +1,1 @@
+The house and appliance information that we used for training and test can be found in folder 'preprocess/uk_dale.cfg'. You should put the corresponding appliance data files in the correct house.
