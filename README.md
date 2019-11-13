@@ -28,24 +28,14 @@ The environments we used are listed in the file `environment.yml`. If you use `c
 Download the REFIT raw data from the original website (https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned). 
 
 
-
-
-
-
 ### UK-DALE
-Download the UK-DALE raw data from the original website ().
+Download the UK-DALE raw data from the original website (https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Detail&WantComp=41).
 
 ### Preprocessing
 
 
-## Training
-
-
-
-
-
-
-
+## Training & Test
+We recommend importing the project into Pycharm (https://www.jetbrains.com/pycharm/) for your future research.
 
 ### Tips
 You can look at the loss and computation graph using tensorboard:
@@ -53,21 +43,10 @@ You can look at the loss and computation graph using tensorboard:
 tensorboard --logdir= 'the output path'
 ```
 
-## Testing
-
-
-
-
 
 ## Code validation and experiment results
 We evaluate our model on a Linux machine with a Nvidia RTX 2080 GPU and Core i7 9700K CPU.
 
-```sh
-git clone -------------
-cd ---------
-python ----------
-asddgasd
-```
 Example outputs of Washing Machine on ”unseen” house 2 from UK-DALE (We enlarge the right part of the figure to make it more clear):
 ![](/image/ukdale_washingmachine.png)
 
