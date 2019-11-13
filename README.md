@@ -69,7 +69,7 @@ python ----------
 asddgasd
 ```
 Example outputs of Washing Machine on ”unseen” house 2 from UK-DALE (We enlarge the right part of the figure to make it more clear):
-![](ukdale_washingmachine.png)
+![](/image/ukdale_washingmachine.png)
 
 
 ## Acknowledgments
