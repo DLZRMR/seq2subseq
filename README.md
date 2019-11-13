@@ -31,8 +31,6 @@ Download the REFIT raw data from the original website (https://pureportal.strath
 ### UK-DALE
 Download the UK-DALE raw data from the original website (https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Detail&WantComp=41).
 
-### Preprocessing
-
 
 ## Training & Test
 We recommend importing the project into Pycharm (https://www.jetbrains.com/pycharm/) for your future research.
